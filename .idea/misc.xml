@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULIAH/MBKM/BANGKIT - 2022/2_Belajar Fundamental Aplikasi Android/Perbaikan Submission 3/GithubUserApp/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1555" />
+        <entry key="..\:/KULIAH/MBKM/BANGKIT - 2022/2_Belajar Fundamental Aplikasi Android/Perbaikan Submission 3/GithubUserApp/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1555" />
+        <entry key="..\:/KULIAH/MBKM/BANGKIT - 2022/2_Belajar Fundamental Aplikasi Android/Perbaikan Submission 3/GithubUserApp/app/src/main/res/layout/activity_detail.xml" value="0.3532608695652174" />
+        <entry key="..\:/KULIAH/MBKM/BANGKIT - 2022/2_Belajar Fundamental Aplikasi Android/Perbaikan Submission 3/GithubUserApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/KULIAH/MBKM/BANGKIT - 2022/2_Belajar Fundamental Aplikasi Android/Perbaikan Submission 3/GithubUserApp/app/src/main/res/layout/activity_settings.xml" value="0.1838768115942029" />
+        <entry key="..\:/KULIAH/MBKM/BANGKIT - 2022/2_Belajar Fundamental Aplikasi Android/Perbaikan Submission 3/GithubUserApp/app/src/main/res/menu/option_menu.xml" value="0.2" />
+        <entry key="..\:/KULIAH/MBKM/BANGKIT - 2022/2_Belajar Fundamental Aplikasi Android/Perbaikan Submission 3/GithubUserApp/app/src/main/res/menu/share_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
